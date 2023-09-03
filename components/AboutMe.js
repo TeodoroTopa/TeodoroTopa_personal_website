@@ -121,6 +121,7 @@ export default function AboutMe() {
               <p
                 key={idx}
                 className="text-xl text-gray-700 mb-4 dark:text-gray-300 "
+                style={{whiteSpace: 'break-spaces'}}
               >
                 {desc}
               </p>
