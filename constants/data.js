@@ -37,6 +37,13 @@ const userData = {
       desc: "Data Scientist on the Commercial Insights and Loyalty, Partnerships & Delivery Team.",
     },
     {
+      title: "Assistant to the Conservation Officer",
+      company: "Loisaba Conservancy, Laikipia, Kenya",
+      year: "2022",
+      companyLink: "https://loisaba.com/",
+      desc: "- Automated mapping and reporting of wildlife sightings by security team on daily patrols using EarthRanger and Tableau, saving multiple days of work in the creation of monthly reports. \n\n - Created a system for tracking touristic game drives in EarthRanger and Tableau, incorporating guests' wildlife sightings into the conservancy's tracking system while providing guests with interactive digital keepsakes.\n\n - Guided guests on safari game drives, leading educational tours in both English and Italian.",
+    },
+    {
       title: "Graduation",
       company: "Cornell University, Ithaca, NY.",
       year: "2022",
