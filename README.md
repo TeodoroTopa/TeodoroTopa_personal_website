@@ -1,3 +1,9 @@
+# My personal website
+
+This is where I manage my personal website. The website is built from a template repo by Manu Arora.
+
+------------------------
+
 ## Portfolio Website For Developers 💯
 
 **UPDATE:**
