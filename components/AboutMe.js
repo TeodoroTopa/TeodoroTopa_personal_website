@@ -28,7 +28,7 @@ export default function AboutMe() {
       <div className="bg-[#F1F1F1] dark:bg-gray-900 px-4">
         <div className="pt-20 grid grid-cols-1 md:grid-cols-3 max-w-6xl mx-auto gap-y-20 gap-x-20">
           {/* Social Buttons */}
-          <div className="inline-flex flex-col sm:order-2 md:order-1">
+          <div className="inline-flex flex-col order-2 md:order-1">
             <div>
               <h1 className="text-xl font-semibold text-gray-700 dark:text-gray-200">
                 Contact
@@ -116,7 +116,7 @@ export default function AboutMe() {
             </div>
           </div>
           {/* Text area */}
-          <div className="col-span-1 md:col-span-2 sm:order-1 md:order-2 sm:ml-2 md:ml-0">
+          <div className="col-span-1 md:col-span-2 order-1 md:order-2 ml-2 md:ml-0">
             {userData.about.description?.map((desc, idx) => (
               <p
                 key={idx}
