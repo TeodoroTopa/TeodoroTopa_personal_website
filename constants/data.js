@@ -47,7 +47,6 @@ const userData = {
     title:
       "I'm a data scientist with a strong interest in conservation and sustainability.",
     description: [
-      'Growing up in Washington, DC, the ',
       'I grew up in Washington, DC before attending Cornell University and studying Environmental and Sustainability Sciences, as well as Information Science.',
       'At Cornell, I completed concentrations in Data Science, and Environmental Biology and Applied Ecology. Some of my favorite coursework included classes teaching information retrieval and Natural Language Processing (NLP), as well as Geographic Information Systems (GIS) and population biology.',
       'My ideal career would be to work at the intersection of wildlife conservation/sustainability and data science. Check out my experiences page to learn how I\'ve worked towards that so far!',
