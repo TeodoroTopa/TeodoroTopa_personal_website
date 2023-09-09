@@ -11,9 +11,13 @@ export default function Projects() {
 
 
       </div>
+
+      
       {/* Grid starts here */}
       <div className="bg-[#F1F1F1] dark:bg-gray-900">
-
+      <p className = 'max-w-6xl mx-auto font-medium'>
+        Here, find some examples of projects I've completed recently. The list below includes coursework and personal projects, as well as some work I have done professionally. That being said, my most recent work is not publicly shareable. Please reach out to if you have questions about what sorts of skills might not be on display here!
+      </p>
         <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8 py-10 pb-40">
           {userData.projects.map((proj, idx) => (
             <ProjectCard
