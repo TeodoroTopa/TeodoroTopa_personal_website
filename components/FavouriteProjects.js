@@ -33,7 +33,7 @@ export default function FavouriteProjects() {
         </header>
 
         {/* Grid starts here */}
-        <div className="grid md:grid-cols-3 gap-8 lg:-mt-8 pb-40">
+        <div className="grid md:grid-cols-3 gap-8 mt-5 pb-40">
           {/* Single card */}
           <a
             href="https://github.com/TeodoroTopa/earthranger_tableau_integration_maps"
