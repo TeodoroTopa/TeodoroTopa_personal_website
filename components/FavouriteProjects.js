@@ -1,4 +1,5 @@
 import React from "react";
+import userData from "@constants/data";
 import Link from "next/link";
 
 export default function FavouriteProjects() {
