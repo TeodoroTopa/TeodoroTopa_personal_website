@@ -16,6 +16,7 @@ export default function Footer() {
               Website Template Developed by
               <div className="inline-block transform hover:scale-110 hover:-rotate-3 transition duration-300">
                 <a
+                  target="_blank"
                   className="hover:bg-red-500 rounded-md px-2 py-1  hover:text-gray-50"
                   href="https://manuarora.in"
                 >
@@ -26,6 +27,7 @@ export default function Footer() {
           </div>
           <div className="space-x-4 flex flex-row items-center">
             <a
+              target="_blank"
               href={userData.socialLinks.instagram}
               className="text-base font-normal text-gray-600 dark:text-gray-300"
             >
@@ -42,6 +44,7 @@ export default function Footer() {
             </a>
             <a
               href={userData.socialLinks.facebook}
+              target="_blank"
               className="text-base font-normal text-gray-600 dark:text-gray-300"
             >
               <svg
@@ -57,6 +60,7 @@ export default function Footer() {
             </a>
             <a
               href={userData.socialLinks.linkedin}
+              target="_blank"
               className="text-base font-normal text-gray-600 dark:text-gray-300"
             >
               <svg

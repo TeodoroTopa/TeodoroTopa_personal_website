@@ -122,6 +122,13 @@ const userData = {
       desc: "Performed data aggregation and analysis, and completed programming tasks related to the creation of a home-ownership cost calculator for a sustainable real-estate listing service. Performed other related data tasks as needed.",
     },
     {
+      title: "Plant Behavior & Biotic Interactions Teaching Assistant",
+      company: "Cornell University Plant Sciences Department",
+      year: "2020",
+      companyLink: "https://cals.cornell.edu/",
+      desc: "Assisted undergraduate students in understanding the role of plants in the biosphere. Guided discussions of course concepts and scientific literature and assessed student learning by building and grading quizzes.",
+    },
+    {
       title: "Policy Analyst",
       company: "Cornell Roosevelt Institute",
       year: "2019",

@@ -18,6 +18,7 @@ export default function AboutMe() {
             {userData.about.title} I am currently a member of{" "}
             <a
               className="bg-red-500 rounded-md px-2 py-1 text-white"
+              target="_blank"
               href={userData.about.currentProjectUrl}
             >
               {userData.about.currentProject} ✈️
@@ -37,6 +38,7 @@ export default function AboutMe() {
                 To get into contact with me, send an{" "}
                 <a
                   href={`mailto:${userData.email}`}
+                  target="_blank"
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
                 >
                   e-mail
@@ -52,7 +54,7 @@ export default function AboutMe() {
                 If you think I might be a good fit to work with you, please check out my{" "}
                 <a
                   href={userData.resumeUrl}
-                  target="__blank"
+                  target="_blank"
                   className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
                 >
                   resume
@@ -68,6 +70,7 @@ export default function AboutMe() {
             <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.linkedin}
+                  target="_blank"
                   className="flex flex-row items-center space-x-4 group"
                 >
                   <div className="my-4">&rarr;</div>
@@ -80,6 +83,7 @@ export default function AboutMe() {
               <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.github}
+                  target="_blank"
                   className="flex flex-row items-center space-x-4 group"
                 >
                   <div className="my-4">&rarr;</div>
@@ -92,6 +96,7 @@ export default function AboutMe() {
               <div className="flex flex-row justify-start items-center ">
                 <a
                   href={userData.socialLinks.facebook}
+                  target="_blank"
                   className="flex flex-row items-center space-x-4 group"
                 >
                   <div className="my-4">&rarr;</div>
@@ -104,6 +109,7 @@ export default function AboutMe() {
               <div className="flex flex-row justify-start items-center">
                 <a
                   href={userData.socialLinks.instagram}
+                  target="_blank"
                   className="flex flex-row items-center space-x-4 group"
                 >
                   <div className="my-4">&rarr;</div>

@@ -38,6 +38,7 @@ export default function FavouriteProjects() {
           {/* Single card */}
           <a
             href="https://github.com/TeodoroTopa/earthranger_tableau_integration_maps"
+            target="_blank"
             className="w-full block col-span-3 shadow-2xl"
           >
             <div className="relative overflow-hidden">
@@ -57,6 +58,7 @@ export default function FavouriteProjects() {
           {/* Single card */}
           <a
             href="https://github.com/TeodoroTopa/course_recommender_site"
+            target="_blank"
             className="w-full block col-span-3  sm:col-span-2 shadow-2xl"
           >
             <div className="relative overflow-hidden">
@@ -77,6 +79,7 @@ export default function FavouriteProjects() {
           {/* Single card */}
           <a
             href="/projects"
+            target="_blank"
             className="w-full block col-span-3 sm:col-span-1  object-cover"
           >
             <div className="relative overflow-hidden shadow-2xl">
