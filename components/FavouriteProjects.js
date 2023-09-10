@@ -79,7 +79,6 @@ export default function FavouriteProjects() {
           {/* Single card */}
           <a
             href="/projects"
-            target="_blank"
             className="w-full block col-span-3 sm:col-span-1  object-cover"
           >
             <div className="relative overflow-hidden shadow-2xl">
