@@ -126,7 +126,7 @@ const userData = {
       company: "Cornell Roosevelt Institute",
       year: "2019",
       companyLink: "https://cornellrooseveltinstitute.weebly.com/",
-      desc: "Published an op-ed and developed a policy proposal as a member of the Environment and Technology team at a student think tank. For example: https://www.cornellrooseveltinstitute.org/env/is-cornell-drowning-its-engineers-in-stem-",
+      desc: "Published an op-ed and developed a policy proposal as a member of the Environment and Technology team at a student think tank.",
     },
     {
       title: "Biodiversity Field Assistant",
