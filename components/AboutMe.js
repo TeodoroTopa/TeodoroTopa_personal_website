@@ -6,7 +6,7 @@ export default function AboutMe() {
     <section className="bg-white dark:bg-gray-800">
       <div className="max-w-6xl mx-auto h-28 lg:h-48 bg-white dark:bg-gray-800">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold md:pb-5 lg:py-10 text-center md:text-left">
-          About Teo.
+          About Teo
         </h1>
       </div>
       <div className="bg-[#F1F1F1] dark:bg-gray-900">

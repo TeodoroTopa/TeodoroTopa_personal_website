@@ -47,10 +47,10 @@ const userData = {
     title:
       "I'm a data scientist with a strong interest in conservation and sustainability.",
     description: [
-      'I have a wide range of coursework and professional experience spanning from natural language processing and classification to building an automated wildlife mapping pipeline. I thrive on getting projects out into the world, particularly when they involve proof-of-concept and minimum-viable-product work that tackles novel challenges.',
-      'Currently, I live in Chicago and work at 84.51, a data science and analytics organization. I develop and execute custom data science projects for Fortune 500 retail clients with the partnerships and delivery team. I engage directly with clients, communicating insights and breaking down data science concepts for non-technical audiences.',
-      'I have a special interest in conservation, and double majored in Information Science and Environmental and Sustainability Sciences at Cornell University, completing concentrations in data science and environmental biology and applied ecology. I have experience at the intersection of the two areas of study both in the classroom (studying geographic information systems and population biology) and the workplace (as an assistant to the Conservation Officer at Loisaba Conservancy in Kenya).',
-      'Technical expertise aside, I bring business acumen and exceptional interpersonal skills to the table. I\'ve honed these skills through diverse experiences in conservation, law, politics, and the private sector. Having lived on four continents and grown up studying four languages (not including Python! 🙂), I possess a unique cultural awareness and adaptability that allows me to thrive in diverse work environments.',
+      'My corporate experience is coupled with a wide range of coursework and professional experience that spans from natural language processing and classification to building an automated wildlife mapping pipeline. I thrive on getting projects out into the world, and love tackling novel challenges and field testing new solutions.',
+      'Today, I live in Chicago and work at 84.51, a data science and analytics organization. In my position, I develop and execute custom data science projects for Fortune 500 retail clients as part of the partnerships and delivery team. I engage directly with clients, communicating insights and breaking down data science concepts for non-technical audiences.',
+      'My special interest is in conservation. At Cornell University, I double majored in Information Science and Environmental and Sustainability Sciences, completing concentrations in data science and environmental biology and applied ecology. I have experience at the intersection of the two fields, both in the classroom (studying geographic information systems and population biology) and in the workplace (as an assistant to the Conservation Officer at Loisaba Conservancy in Kenya).',
+      'Technical expertise aside, I bring business acumen and exceptional interpersonal skills to the table. I\'ve honed these skills through diverse experiences in conservation, law, politics, and the private sector. Having lived on four continents and grown up studying four languages (not including Python! 🙂), I possess a unique cultural awareness and adaptability that allows me to thrive in varied work environments.',
 
       'Languages: English (fluent), Italian (fluent), Spanish (professional proficiency), French (Intermediate)',
       // '\nOther things that didn\'t fit in the short bio:',
@@ -70,7 +70,7 @@ const userData = {
       company: "84.51",
       year: "2023",
       companyLink: "https://www.8451.com/",
-      desc: "Data Scientist on the Commercial Insights and Loyalty, Partnerships & Delivery Team. \n\n Work with a small team to develop and execute data science solutions relating to purchasing patterns across the Kroger business. Primarily leverage Databricks, Pyspark, PowerBI and VSCode.",
+      desc: "Data Scientist on the Commercial Insights and Loyalty, Partnerships & Delivery Team. \n\n  Develop and execute custom data science projects for Fortune 500 retail clients. Engage directly with stakeholders to communicate insights and break down data science concepts for non-technical audiences. \n\n Primarily leverage Databricks, Pyspark, PowerBI and VSCode.",
     },
     {
       title: "Assistant to the Conservation Officer",
