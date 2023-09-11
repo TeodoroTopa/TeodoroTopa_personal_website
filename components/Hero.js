@@ -28,7 +28,7 @@ export default function Hero() {
           </RainbowHighlight>
           <RainbowHighlight color={colors[3]}>
             <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-gray-700 dark:text-gray-200 my-2">
-              Skier Singer Traveler...
+              Skier, Singer, Traveler...
             </h1>
           </RainbowHighlight>
         </RoughNotationGroup>
