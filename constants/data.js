@@ -13,14 +13,19 @@ const userData = {
       imgUrl: "/leopard_leaving_tree.jpg",
     },
     {
-      title: "Yelp Review Classification NLP Project",
-      link: "https://github.com/TeodoroTopa/yelp_review_classification",
-      imgUrl: "/confusion_matrix.png",
-    },
-    {
       title: "Cornell Course Recommendation Website",
       link: "https://github.com/TeodoroTopa/course_recommender_site",
       imgUrl: "/ccr.png",
+    },
+    {
+      title: "Transfer Learning for Safari Animal Classification",
+      link: "https://huggingface.co/spaces/tskst/safari_animal_classifier",
+      imgUrl: "/safari_clf.png",
+    },
+    {
+      title: "Yelp Review Classification NLP Project",
+      link: "https://github.com/TeodoroTopa/yelp_review_classification",
+      imgUrl: "/confusion_matrix.png",
     },
     {
       title: "Global Immigration Flow Visualization",
