@@ -18,7 +18,7 @@ const userData = {
       imgUrl: "/ccr.png",
     },
     {
-      title: "Transfer Learning for Safari Animal Classification",
+      title: "Transfer Learning App for Safari Animal Classification",
       link: "https://huggingface.co/spaces/tskst/safari_animal_classifier",
       imgUrl: "/safari_clf.png",
     },
