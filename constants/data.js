@@ -75,7 +75,7 @@ const userData = {
       company: "84.51",
       year: "2023",
       companyLink: "https://www.8451.com/",
-      desc: "Data Scientist on the Commercial Insights and Loyalty, Partnerships & Delivery Team. \n\n  Develop and execute custom data science projects for Fortune 500 retail clients. Engage directly with stakeholders to communicate insights and break down data science concepts for non-technical audiences. \n\n Primarily leverage Databricks, PySpark, PowerBI and VSCode.",
+      desc: "Data Scientist on the Commercial Insights and Loyalty, Partnerships & Delivery Team. \n\n  Develop, execute, and QA custom data science projects for Fortune 500 retail clients. Engage directly with stakeholders to communicate insights and break down data science concepts for non-technical audiences. \n\n Primarily leverage Databricks, PySpark, PowerBI, VSCode, Git, and DataRobot for modeling.",
     },
     {
       title: "Assistant to the Conservation Officer",
