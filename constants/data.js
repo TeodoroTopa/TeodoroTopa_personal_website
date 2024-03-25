@@ -5,7 +5,7 @@ const userData = {
   avatarUrl: "/avatar.png",
   email: "teodorotopa@gmail.com",
   phone: "+1 (202)-413-4213",
-  address: "Chicago, IL, USA",
+  address: "New York, NY, USA",
   projects: [
     {
       title: "Loisaba EarthRanger & Tableau Mapping Project",
@@ -53,7 +53,7 @@ const userData = {
       "I'm a data scientist with a strong interest in conservation and sustainability.",
     description: [
       'My corporate experience is coupled with a wide range of coursework and professional experience that spans from natural language processing and classification to building an automated wildlife mapping pipeline. I thrive on getting projects out into the world, and love tackling novel challenges and field testing new solutions.',
-      'Today, I live in Chicago and work at 84.51, a data science and analytics organization. In my position, I develop and execute custom data science projects for Fortune 500 retail clients as part of the Partnerships and Delivery team. I engage directly with clients, communicating insights and breaking down data science concepts for non-technical audiences.',
+      'Today, I live in New York and work at 84.51, a data science and analytics organization. In my position, I develop and execute custom data science projects for Fortune 500 retail clients as part of the Partnerships and Delivery team. I engage directly with clients, communicating insights and breaking down data science concepts for non-technical audiences.',
       'My special interest is in conservation. At Cornell University, I double majored in Information Science and Environmental and Sustainability Sciences, completing concentrations in data science and environmental biology and applied ecology. I have experience at the intersection of the two fields, both in the classroom (studying geographic information systems and population biology) and in the workplace (as an assistant to the Conservation Officer at Loisaba Conservancy in Kenya, and as a field researcher in the Galapagos).',
       'Technical expertise aside, I bring business acumen and exceptional interpersonal skills to the table. I\'ve honed these skills through diverse experiences in conservation, law, politics, and the private sector. Having lived on four continents and grown up studying four languages (not including Python! 🙂), I possess a unique cultural awareness and adaptability that allows me to thrive in varied work environments.',
 
@@ -177,7 +177,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1GaCBMYEMq3d1AM7CGry7WqveU-Ex60bt/view?usp=sharing",
+    "https://drive.google.com/file/d/1UAq-SjR3lkYku0p-j0upLl_tjnfdznuK/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/uguay/",
     linkedin: "https://www.linkedin.com/in/teodoro-topa/",
