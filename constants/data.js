@@ -13,6 +13,16 @@ const userData = {
       imgUrl: "/leopard_leaving_tree.jpg",
     },
     {
+      title: "Energy Generation Planning App",
+      link: "https://github.com/cccdenhart/transmission-capacity",
+      imgUrl: "/energy_planning_app.png"
+    },
+    {
+      title: "Brazil Nut & Soy Production Mapping",
+      link: "https://github.com/TeodoroTopa/cxl_brazilnut_mapping",
+      imgUrl: "/brazil_nut_map.png"
+    },
+    {
       title: "Cornell Course Recommendation Website",
       link: "https://github.com/TeodoroTopa/course_recommender_site",
       imgUrl: "/ccr.png",
