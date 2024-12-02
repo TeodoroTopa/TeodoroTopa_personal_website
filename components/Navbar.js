@@ -129,6 +129,13 @@ export default function Navbar() {
               </svg>
             )}
           </Link>
+          <Link
+            href={userData.resumeUrl}
+            target = "_blank"
+            className={`text-base text-gray-600 dark:text-gray-300 font-normal`}
+          >
+            Resume
+          </Link>
         </div>
 
         <div className="space-x-4 flex flex-row items-center">
@@ -209,7 +216,8 @@ export default function Navbar() {
           </button>
         </div>
       </div>
-      <div className="space-x-8 block md:hidden mt-4">
+      <div className="space-x-8 block md:hidden mt-4 text-sm max-w-auto">
+      <div className="flex flex-wrap md:flex-row justify-between items-center">
         <Link
           href="/about"
           className="text-base font-normal text-gray-600 dark:text-gray-300"
@@ -234,6 +242,14 @@ export default function Navbar() {
         >
           Contact
         </Link>
+        <Link
+          href={userData.resumeUrl}
+          target = "_blank"
+          className="text-base font-normal text-gray-600 dark:text-gray-300"
+        >
+          Resume
+        </Link>
+        </div>
       </div>
     </div>
   );
