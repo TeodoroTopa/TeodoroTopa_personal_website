@@ -187,7 +187,7 @@ const userData = {
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1UAq-SjR3lkYku0p-j0upLl_tjnfdznuK/view?usp=sharing",
+    "https://drive.google.com/file/d/185IzZVxsT3G28dQaGFUEldrVaoGfIz9Z/view?usp=sharing",
   socialLinks: {
     instagram: "https://www.instagram.com/uguay/",
     linkedin: "https://www.linkedin.com/in/teodoro-topa/",
